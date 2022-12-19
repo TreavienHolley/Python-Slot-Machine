@@ -1,4 +1,4 @@
-#Python Slot Machine
+# Python Slot Machine
 
 This programis a slot machine where the user can deposit and integer into there balance and bet on rows in the slot. 
 
